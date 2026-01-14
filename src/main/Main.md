@@ -10,7 +10,6 @@ Enter your name here: ___________
 
 1. Axolotl
 2. Bonobo
-3. Capybara
-4. Dog
-5. Cat
-6. Cow
+3. Dog
+4. Cat
+5. Cow
