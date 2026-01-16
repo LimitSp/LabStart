@@ -8,6 +8,6 @@ Enter your name here: Demario Gordon
 
 ## The best animals
 
-1. Axolotl
-2. Bonobo
-3. Three-toed sloth
+1. Cat
+2. Dog
+3. Cow
